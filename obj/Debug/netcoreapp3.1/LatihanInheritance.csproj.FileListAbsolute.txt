@@ -1,0 +1,13 @@
+C:\Users\odi setiadi\source\pertemuan6\LatihanInheritance\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.csproj.CoreCompileInputs.cache
+C:\Users\odi setiadi\source\pertemuan6\LatihanInheritance\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.AssemblyInfoInputs.cache
+C:\Users\odi setiadi\source\pertemuan6\LatihanInheritance\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.AssemblyInfo.cs
+C:\Users\odi setiadi\source\pertemuan6\LatihanInheritance\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.csprojAssemblyReference.cache
+C:\Users\odi setiadi\source\pertemuan6\LatihanInheritance\LatihanInheritance\bin\Debug\netcoreapp3.1\LatihanInheritance.exe
+C:\Users\odi setiadi\source\pertemuan6\LatihanInheritance\LatihanInheritance\bin\Debug\netcoreapp3.1\LatihanInheritance.deps.json
+C:\Users\odi setiadi\source\pertemuan6\LatihanInheritance\LatihanInheritance\bin\Debug\netcoreapp3.1\LatihanInheritance.runtimeconfig.json
+C:\Users\odi setiadi\source\pertemuan6\LatihanInheritance\LatihanInheritance\bin\Debug\netcoreapp3.1\LatihanInheritance.runtimeconfig.dev.json
+C:\Users\odi setiadi\source\pertemuan6\LatihanInheritance\LatihanInheritance\bin\Debug\netcoreapp3.1\LatihanInheritance.dll
+C:\Users\odi setiadi\source\pertemuan6\LatihanInheritance\LatihanInheritance\bin\Debug\netcoreapp3.1\LatihanInheritance.pdb
+C:\Users\odi setiadi\source\pertemuan6\LatihanInheritance\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.dll
+C:\Users\odi setiadi\source\pertemuan6\LatihanInheritance\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.pdb
+C:\Users\odi setiadi\source\pertemuan6\LatihanInheritance\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.genruntimeconfig.cache
